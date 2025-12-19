@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:013532,100:34B78F&height=200&section=header&text=OneOncology&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering&descSize=25&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:013532,100:34B78F&height=200&section=header&text=OneOncology&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering&descSize=25&descAlignY=55" width="100%"/>
 
 <!-- BADGES ROW -->
 <p>
