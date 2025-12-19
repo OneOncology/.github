@@ -1,10 +1,6 @@
-# OneOncology
-
-## Software Engineering & AI
-
----
-
 <div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:013532,100:34B78F&height=200&section=header&text=OneOncology&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%26%20AI&descSize=25&descAlignY=55)
 
 [![Website](https://img.shields.io/badge/oneoncology.com-Visit%20Site-34B78F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oneoncology.com)
 ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-CI%2FCD-006E82?style=for-the-badge&logo=azure-pipelines&logoColor=white)
@@ -93,5 +89,9 @@
 We build and maintain the software and AI infrastructure that powers OneOncology's mission to transform cancer care.
 
 **Questions?** Reach out to the team or open an issue in the relevant repository.
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:013532,100:34B78F&height=100&section=footer)
 
 </div>
