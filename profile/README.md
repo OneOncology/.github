@@ -1,22 +1,21 @@
+# OneOncology
+
+## Software Engineering & AI
+
+---
+
 <div align="center">
-
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:013532,100:34B78F&height=200&section=header&text=OneOncology&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%26%20AI&descSize=25&descAlignY=55" width="100%"/>
-
-<!-- BADGES ROW -->
 
 [![Website](https://img.shields.io/badge/oneoncology.com-Visit%20Site-34B78F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oneoncology.com)
 ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-CI%2FCD-006E82?style=for-the-badge&logo=azure-pipelines&logoColor=white)
 
----
-
-### Building the future of oncology data infrastructure
+**Building the future of oncology data infrastructure**
 
 *Empowering cancer care through innovative data solutions*
 
----
-
 </div>
+
+---
 
 ## Tech Stack
 
@@ -56,8 +55,6 @@
 
 ## Repository Guide
 
-Navigate our codebase by category:
-
 | Category | Description |
 |:--------:|-------------|
 | **APIs** | Backend services, REST endpoints, and microservices built with FastAPI |
@@ -91,16 +88,10 @@ Navigate our codebase by category:
 
 <div align="center">
 
-## Software Engineering & AI Team
+### Software Engineering & AI Team
 
 We build and maintain the software and AI infrastructure that powers OneOncology's mission to transform cancer care.
 
-<br/>
-
-**Questions?** Reach out to the Software Engineering & AI team or open an issue in the relevant repository.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:013532,100:34B78F&height=100&section=footer" width="100%"/>
+**Questions?** Reach out to the team or open an issue in the relevant repository.
 
 </div>
