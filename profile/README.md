@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/MUI-004A5E?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
 </p>
 
-### Cloud & DevOps
+### Cloud &amp; DevOps
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Azure-002843?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Azure%20Pipelines-34B78F?style=for-the-badge&logo=azure-pipelines&logoColor=white" alt="Azure Pipelines"/>
@@ -99,13 +99,13 @@ Navigate our codebase by category:
 
 <div align="center">
 
-## Software Engineering & AI Team
+## Software Engineering &amp; AI Team
 
 We build and maintain the software and AI infrastructure that powers OneOncology's mission to transform cancer care.
 
 <br/>
 
-**Questions?** Reach out to the Software Engineering & AI team or open an issue in the relevant repository.
+**Questions?** Reach out to the Software Engineering &amp; AI team or open an issue in the relevant repository.
 
 ---
 
