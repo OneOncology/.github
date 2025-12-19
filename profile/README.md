@@ -1,12 +1,99 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=OneOncology&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering&descSize=25&descAlignY=55" width="100%"/>
 
-**Here are some ideas to get you started:**
+<!-- BADGES ROW -->
+<p>
+  <a href="https://oneoncology.com">
+    <img src="https://img.shields.io/badge/oneoncology.com-Visit%20Site-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <img src="https://img.shields.io/badge/Azure%20Pipelines-CI%2FCD-2560E0?style=for-the-badge&logo=azure-pipelines&logoColor=white" alt="Azure Pipelines"/>
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+### Building the future of oncology data infrastructure
+
+*Empowering cancer care through innovative data solutions*
+
+---
+
+</div>
+
+## Tech Stack
+
+<div align="center">
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=for-the-badge&logo=azure-pipelines&logoColor=white" alt="Azure Pipelines"/>
+</p>
+
+</div>
+
+---
+
+## Repository Guide
+
+Navigate our codebase by category:
+
+| Category | Description |
+|:--------:|-------------|
+| **APIs** | Backend services, REST endpoints, and microservices built with FastAPI |
+| **Frontend Apps** | React + MUI web applications for internal tools and dashboards |
+| **Data Pipelines** | ETL workflows, data transformations, and processing jobs |
+| **Infrastructure** | IaC templates, Azure configurations, and DevOps tooling |
+| **Libraries** | Shared packages, utilities, and internal SDKs |
+
+---
+
+## Architecture Overview
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                        AZURE CLOUD                              │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐      │
+│   │   React     │────▶│   FastAPI   │────▶│    Data     │      │
+│   │    + MUI    │     │   Backend   │     │  Pipelines  │      │
+│   └─────────────┘     └─────────────┘     └─────────────┘      │
+│                                                                 │
+│   ┌─────────────────────────────────────────────────────┐      │
+│   │              Azure Pipelines (CI/CD)                │      │
+│   └─────────────────────────────────────────────────────┘      │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## Data Engineering Team
+
+We build and maintain the data infrastructure that powers OneOncology's mission to transform cancer care.
+
+<br/>
+
+**Questions?** Reach out to the Data Engineering team or open an issue in the relevant repository.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=100&section=footer" width="100%"/>
+
+</div>
